@@ -103,7 +103,7 @@ class IronClient(object):
         }
         products = {
                 "iron_worker": {
-                    "host": "worker-aws-us-east-1.iron.io",
+                    "host": "iron-iw.us-east-1.antimony.io",
                     "version": 2
                 },
                 "iron_mq": {
